@@ -1,0 +1,182 @@
+\body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+header, footer {
+    background: #222;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+
+.left, .right {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.left {
+    width: 40%;
+}
+
+.right {
+    width: 60%;
+}
+
+.project {
+    margin-bottom: 25px;
+}
+
+.project img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.project a {
+    text-decoration: none;
+    color: #333;
+}
+* LINEUP – 3 coloane */
+.lineup-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-top: 20px;
+}
+
+/* Card proiect */
+.lineup-block {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.lineup-block:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+.lineup-block h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+/* Imagini proiect */
+.img-link img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.25s ease;
+}
+
+.img-link img:hover {
+    transform: scale(1.05);
+}
+
+/* FOOTER */
+footer {
+    background-color: #0f172a;
+    color: #e5e7eb;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer a {
+    color: #38bdf8;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+    .lineup-wrapper {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+.project a:hover h3 {
+    color: #0077cc;
+}
+
+* LINEUP – 3 coloane */
+.lineup-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    margin-top: 20px;
+}
+
+/* Card proiect */
+.lineup-block {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.lineup-block:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.18);
+}
+
+.lineup-block h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+/* Imagini proiect */
+.img-link img {
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.25s ease;
+}
+
+.img-link img:hover {
+    transform: scale(1.05);
+}
+
+/* FOOTER */
+footer {
+    background-color: #0f172a;
+    color: #e5e7eb;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer a {
+    color: #38bdf8;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+    .lineup-wrapper {
+        grid-template-columns: 1fr;
+    }
+}
