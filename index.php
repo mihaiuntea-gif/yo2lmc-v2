@@ -31,7 +31,17 @@
         <div class="project">
             <a href="proiect1.php">
                 <h3>Proiect 1: Sistem de stocare local (NAS - Network Attached Storage) cu Raspberry PI 5‑Made</h3>
-                <img src="rasp02pi_NAS.jpg" alt="Raspberry PI NAS">
+     <style>
+        .inch-window {
+            width: 3in;
+            height: 2in;
+            border: 1px solid #333; /* Optional border to clearly see the edges */
+            object-fit: cover;      /* Crops the image proportionally to fit the 3x2 area */
+            display: block;
+        }
+    </style>
+			<img src="rasp02pi_NAS.jpg" class="inch-window" alt="Raspberry PI NAS">
+                
             </a>
             <p> Un Raspberry Pi, niste SSD-uri si un pic de pasine dau nastere unui "mini-cloud" personal, disponibil oriunde este internet </p>
         </div>
