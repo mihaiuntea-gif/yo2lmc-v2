@@ -4,11 +4,13 @@
     <section class="left">
         <h2>Despre YO2LMC</h2>
         <p> Atracția pentru domeniul tehnic am simțit-o încă din școala primară, când urmăream cu fascinație cum fratele meu mai mare realiza diverse 
-            automatizări prin casă. Îmi amintesc perfect prim „mare invenție” pe care am văzut-o atunci: un releu comandat de un bistabil care
-            pornea instalația de lumini de Crăciun. Pentru mine era pură magie.  </p>
-        <p>La scurt timp, revista <strong> Tehnium </strong> a devenit principala mea sursă de inspirație. Pagini întregi dedicate electronicii și proiectelor practice îmi deschideau noi orizonturi. Unele proiecte funcționau impecabil încă de la prima încercare, iar altele mă provocau să învăț mai mult, să experimentez și să înțeleg mai bine principiile din spatele lor.</p>
-        <p>
-În liceu am avut norocul să întâlnesc colegi la fel de pasionați de electronică. Împreună frecventam Radioclubul din Lupeni(YO2KQB). La Radioclub  sub îndrumarea domnului profesor Ioan Ardeleanu(YO2LCQ), ascultam săptămânal traficul pe 80m și am descoperit plăcerea de a comunica cu alți pasionați de radioamatorism.</p>
+            automatizări prin casă. Îmi amintesc perfect prima „mare invenție” pe care am văzut-o atunci: un releu comandat de un bistabil care
+            controla instalația de lumini de Crăciun. Pentru mine era pură magie.  </p>
+        <p>La scurt timp, revista <strong> Tehnium </strong>a devenit principala mea sursă de inspirație. Pagini întregi dedicate electronicii și proiectelor practice îmi deschideau noi orizonturi. Unele proiecte funcționau impecabil încă de la prima încercare, iar altele mă provocau să învăț mai mult, să experimentez și să înțeleg mai bine principiile din spatele lor.</p>
+        <p>În perioada liceului am avut șansa să întâlnesc colegi la fel de pasionați de electronică. Împreună frecventam Radioclubul din Lupeni (YO2KQB)
+            unde, sub îndrumarea lu' Dom' Profesor ( aka Jan -  YO2LCQ), am descoperit fascinanta lume a radiotehnicii si
+            colaborarii dinre radioamatori - indiferent de locatie, varsta, culoare politica, religioasa, samd. Ascultam săptămânal traficul din banda de 80 m și eram 
+            captivat de posibilitatea de a comunica cu oameni aflați la sute sau chiar mii de kilometri distanță, uniți de aceeași pasiune pentru comunicațiile radio.</p>
 <p> Ulterior, dupa un stagiu de studii de cativa ani in fermecatorul oras dintre cele 7 coline, capitala a Romaniei in vremuri de restriste si un leagan al culturii si identiatii noastre, am aterizat la propriu intr-o lume a tehnologiei, multi cultularitatii si inovatiiilor. Astăzi sunt radioamator licențiat, cu indicativul YO2LMC, pasionat de comunicații radio, tehnologie și proiecte DIY.  </p>
 
 
