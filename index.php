@@ -53,6 +53,13 @@
             </a>
             <p>O retea privata, intre mai multe locatii (Site to Site VPN) folosind 2 routere MultiWAN. Solutia permite si conexini client to Site (VPN privat de pe telefon)</p>
         </div>
+		<div class="project">
+            <a href="proiect2.php">
+                <h3>Proiect 3: Create a web app in Azure </h3>
+                <img src="azure.jpg" alt="TP-Link azure">
+            </a>
+            <p>Un website simplu folosind serviciul App Services de la Microsoft Azure. Solutia permite actualizari automate de pe un repository Github </p>
+        </div>
 
 
   </section>
