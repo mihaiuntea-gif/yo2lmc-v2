@@ -86,10 +86,10 @@
             (bineînțeles dacă respectați regulile de securitate ale rețelei dvs.)
 	<style>
         .inch-window {
-            width: 2in;
-            height: 3in;
+            width: 3in;
+            height: 2in;
             border: 1px solid #333; /* Optional border to clearly see the edges */
-            object-fit: cover;      /* Crops the image proportionally to fit the 2x3 area */
+            object-fit: cover;      /* Crops the image proportionally to fit the 3x2 area */
             display: block;
         }
     </style>
