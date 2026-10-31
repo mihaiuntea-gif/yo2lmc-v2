@@ -49,7 +49,7 @@
         <div class="project">
             <a href="proiect2.php">
                 <h3>Proiect 2: Conexiune Site-to-site folosind routere MultiWAN</h3>
-                <img src="sitetosite.jpg" alt="TP-Link SiteToSite">
+                <img src="sitetosite2.jpg" alt="TP-Link SiteToSite">
             </a>
             <p>O retea privata, intre mai multe locatii (Site to Site VPN) folosind 2 routere MultiWAN. Solutia permite si conexini client to Site (VPN privat de pe telefon)</p>
         </div>
