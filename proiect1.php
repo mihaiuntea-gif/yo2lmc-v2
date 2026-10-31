@@ -5,7 +5,7 @@
 <html lang="ro">
 <head>
     <meta charset="UTF-8">
-    <title>Cloud propriu cu Raspberry Pi – Proiect NAS</title>
+    <title>Sistem de stocare local NAS (Network Attached Storage, cloud propriu) cu Raspberry Pi</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -65,13 +65,15 @@
 <body>
 
 <header>
-    <h1>Cloud propriu cu Raspberry Pi</h1>
+    <h1>Sistem de stocare local (NAS - Network Attached Storage) cu Raspberry PI 5</h1>
 </header>
 
 <main>
 <a class="btn" href="https://www.raspberrypi.com/tutorials/nas-box-raspberry-pi-tutorial/" target="_blank">
         Tutorial oficial Raspberry Pi
     </a>
+
+	
     <div class="box">
         <p>
             Unitatea de stocare în rețea (NAS) vă permite să salvați fișiere de pe computer și de pe dispozitivele mobile 
@@ -81,7 +83,8 @@
         </p>
         <p>
             Practic vă creați propriul cloud pe care îl puteți accesa doar dvs. 
-            (bineînțeles dacă respectați regulile de securitate ale rețelei dvs.).
+            (bineînțeles dacă respectați regulile de securitate ale rețelei dvs.)
+			<img src="rasp02pi_NAS.jpg" alt="Raspberry PI NAS">
         </p>
     </div>
 
