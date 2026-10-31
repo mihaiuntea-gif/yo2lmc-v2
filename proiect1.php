@@ -84,7 +84,16 @@
         <p>
             Practic vă creați propriul cloud pe care îl puteți accesa doar dvs. 
             (bineînțeles dacă respectați regulile de securitate ale rețelei dvs.)
-			<img src="rasp02pi_NAS.jpg" alt="Raspberry PI NAS">
+	<style>
+        .inch-window {
+            width: 2in;
+            height: 3in;
+            border: 1px solid #333; /* Optional border to clearly see the edges */
+            object-fit: cover;      /* Crops the image proportionally to fit the 2x3 area */
+            display: block;
+        }
+    </style>
+			<img src="rasp02pi_NAS.jpg" class="inch-window" alt="Raspberry PI NAS">
         </p>
     </div>
 
